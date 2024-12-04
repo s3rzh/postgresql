@@ -1,2 +1,3 @@
 1. [Уровни изоляции транзакций в Postgresql (gadjimuradov.ru)](https://gadjimuradov.ru/post/urovni-izolyacii-tranzakcij-v-postgresql/)
 2. [Уровни изоляции транзакций (docs.arenadata.io)](https://docs.arenadata.io/ru/ADPG/current/concept/concurrency-control/transaction-isolation-lvls.html)
+3. [Транзакции и MVCC в PostgreSQL (aristov.tech)](https://aristov.tech/blog/tranzakczii-i-mvcc/#:~:text=MVCC%20(Multi%2DVersion%20Concurrency%20Control,%D1%87%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%E2%80%93%20%D0%B7%D0%B4%D0%B5%D1%81%D1%8C).)
